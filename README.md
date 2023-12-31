@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @DVP060 (🤫 Patel Divy)
+- 👀 I’m interested in ... (🤔🧑‍💻 🚶 🍔🍟🍕)
+- 🌱 I’m currently learning ... Machine Learning(Just start) looking forward.
+- 💞️ I’m looking to collaborate on ... 😀 (Happiness)
+- 📫 How to reach me ... 
+
+<!---
+DVP060/DVP060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
