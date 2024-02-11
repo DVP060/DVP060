@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DVP060 (🤫 Patel Divy)
+- 👋 Hi, I’m @DVP060 (🤫 Patel Divya)
 - 👀 I’m interested in ... (🤔🧑‍💻 🚶 🍔🍟🍕)
 - 🌱 I’m currently learning ... Machine Learning(Just start) looking forward.
 - 💞️ I’m looking to collaborate on ... 😀 (Happiness)
