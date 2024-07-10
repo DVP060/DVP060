@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... (🤔🧑‍💻 🚶 🍔🍟🍕)
 - 🌱 I’m currently learning ... Machine Learning(Intermediate).
 - Currently i am Master's Student at GLS University.
-- 📫 How to reach me ... <a href="https://github.com/DVP060/DVP060/tree/main">Remember Me..</a>
+- 📫 How to reach me ... <a href="dvp060723@gmail.com">Remember Me..</a>
