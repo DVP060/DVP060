@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Divya Pronounce👨
 - 👀 I’m interested in ... (🤔🧑‍💻 🚶 🍔🍟🍕)
-- 🌱 I’m currently learning ... Machine Learning(Intermediate).
 - Currently i am Master's Student at GLS University.
 - 📫 How to reach me ... <a href="mailto:dvp060723@gmail.com">Remember Me..</a>
