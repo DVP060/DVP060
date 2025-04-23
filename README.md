@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Divya Pronounce👨
-- Currently i am Master's Student at GLS University.
-- 📫 How to reach me ... <a href="mailto:dvp060723@gmail.com">Remember Me..</a>
+- Currently, I'm a Master's Student at GLS University.
+- 📫 How to reach me ... <a href="mailto:divayp893@gmail.com">Remember Me..</a>
